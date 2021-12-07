@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrhesseling
-- 👀 I’m interested in physics, biophyics, neuroscience and everything in between.
+- 👀 I’m interested in physics, biophysics, neuroscience and everything in between.
 - 🌱 I’m currently learning C++, a bit of R and sprucing up my Python game.
 - 📫 How to reach me: m.r.hesseling@gmail.com
 

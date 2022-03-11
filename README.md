@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrhesseling
-- 👀 I’m interested in physics, biophysics, neuroscience and everything in between.
-- 🌱 I’m currently learning C++, a bit of R and sprucing up my Python game.
+- 👀 Majoring in Applied Physics, doing some Bioinformatics on the side.
+- 🌱 Currently learning C++, a bit of R and sprucing up my Python game.
 - 📫 How to reach me: m.r.hesseling@gmail.com
 
 <!---

@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mrhesseling
-- 📫 How to reach me: melitzh@gmail.com
+Nothing to see here
 
 <!---
 mrhesseling/mrhesseling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
